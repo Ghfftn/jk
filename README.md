@@ -1,1 +1,1 @@
-https://sshup.com 监控
+https://sshup.com 监控页： https://status.sshup.com
