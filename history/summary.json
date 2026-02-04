@@ -4,17 +4,17 @@
     "url": "https://sshup.com",
     "icon": "https://icons.duckduckgo.com/ip3/sshup.com.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 509,
-    "timeWeek": 562,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "time": 547,
+    "timeDay": 457,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   }
 ]
